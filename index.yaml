@@ -10,5 +10,5 @@ entries:
     type: application
     urls:
     - Packages/app01-0.1.0.tgz
-    version: 0.1.0
+    version: 0.1.1
 generated: "2023-07-24T16:10:45.68716-04:00"
